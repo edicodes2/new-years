@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+}
+
+h1 {
+    font-size: 6rem;
+    font-family: akira , sans-serif;
+    color: white;
+    text-shadow: 0 0 30px rgba(255, 255, 255, 0.3); /* Set the glow color and intensity */
+}
+
+#countdown {
+    padding-top: 70px;
+    font-size: 7rem;
+    font-family: akiras;
+    color: white;
+}
+
+@font-face {
+    font-family: akira;
+    src: url(/fonts/FOODCAN\ PERSONAL\ USE.ttf);
+}
+
+@font-face {
+    font-family: akiras;
+    src: url(/fonts/Akira\ Expanded\ Demo.otf);
+}
