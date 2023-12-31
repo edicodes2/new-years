@@ -21,10 +21,10 @@ h1 {
 
 @font-face {
     font-family: akira;
-    src: url(/fonts/FOODCAN\ PERSONAL\ USE.ttf);
+    src: url(FOODCAN\ PERSONAL\ USE.ttf);
 }
 
 @font-face {
     font-family: akiras;
-    src: url(/fonts/Akira\ Expanded\ Demo.otf);
+    src: url(Akira\ Expanded\ Demo.otf);
 }
